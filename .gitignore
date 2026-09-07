@@ -1,0 +1,8 @@
+output/data/*.dta
+output/data/*.csv
+output/tables/*.tex
+output/logs/*.log
+!output/data/.gitkeep
+!output/tables/.gitkeep
+!output/logs/.gitkeep
+
