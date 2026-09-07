@@ -1,3 +1,4 @@
+data/analysis_input.csv
 output/data/*.dta
 output/data/*.csv
 output/tables/*.tex
@@ -5,4 +6,3 @@ output/logs/*.log
 !output/data/.gitkeep
 !output/tables/.gitkeep
 !output/logs/.gitkeep
-

@@ -1,0 +1,7 @@
+outcome,primary,all_optimal_average
+consequential_count,51,68
+consequential_share,0.47,0.63
+beneficial_share,0.06,0.10
+average_rank_gain,1.14,0.53
+harmful_share,0.41,0.53
+average_rank_loss,2.43,1.56

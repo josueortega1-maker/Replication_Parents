@@ -1,0 +1,3 @@
+table,statistic,mechanism,published_value,supplied_data_value,reason
+sample_characteristics,age_mean,sDAL,20.7,20.648148,current_merged_file_rounds_to_20.6
+population_benchmarks,married_share,Parents,47,73.4,current_merged_marital_code_2_share_differs

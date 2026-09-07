@@ -1,0 +1,32 @@
+order,citekey,mechanisms,participants
+1,chen2006school,"DA, TTC, BOS",432 students
+2,pais2008school,"DA, TTC, BOS",435 students
+3,calsamiglia2010constrained,"DA, TTC, BOS",864 students
+4,klijn2013preference,"DA, BOS",218 students
+5,zhu2015experience,DA,216 students
+6,castillo2016truncation,DA,92 students
+7,chen2016school,"DA, TTC, BOS",175 students
+8,klijn2016affirmative,"DA, TTC",175 students
+9,featherstone2016boston,"DA, BOS",55 students
+10,ding2017matching,"DA, BOS",510 students
+11,guillen2017not,TTC,202 students
+12,basteck2018cognitive,"DA, BOS",192 students
+13,chen2018matching,"DA, BOS",736 students
+14,kawagoe2018skipping,DA,90 students
+15,chen2019chinese,"IA, PA, DA",360 students
+16,ding2019learning,"DA, BOS",375 students
+17,dur2019secure,"DA, BOS, sBOS",81 students
+18,klijn2019static,"sDA, dDA",192 students
+19,bo2020iterative,"DA, IDAM, IDAM-NC",288 students
+20,klijn2020improving,DA,96 students
+21,basteck2021lotteries,"DA, BOS",384 students
+22,castillo2021strategic,"DA-TT, DA-TR",120 students
+23,dur2021sequential,"DA, BOS",48 students
+24,guillen2021strategy,"DA, TTC, RDA, RTTC",209 students
+25,cho2022tie,"DA, SIC, CADA",639 students
+26,koutout2021mechanism,"DA, BOS",288 students
+27,afacan2022parallel,DA,92 students
+28,stephenson2022assignment,"DA, TTC, BOS",432 students
+29,cerrone2022school,"DA, EADA",500 students
+30,hu2024cognitive,DA,176 students
+31,hakimov2025,"sDA, dDA",186 students
