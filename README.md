@@ -1,14 +1,14 @@
 # Experimental School Choice with Parents — Replication Package
 
-Stata replication code for **every table environment** in *Experimental School Choice with Parents* by Mikhail Freer, Thilo Klein, and Josué Ortega.
+Stata replication code for every table environment in *Experimental School Choice with Parents* by Mikhail Freer, Thilo Klein, and Josué Ortega.
 
 The package generates 27 LaTeX table files in manuscript order, reconstructs all participant-level measures from the restricted 540-person analysis file, estimates all eight cognitive models, and stops if any validation target fails.
 
-This public repository distributes **code and aggregate/design inputs only**. Participant-level behavioral, demographic, ranking, and Raven-response data are not public. Authorized users must place `analysis_input.csv` in `data/`; see [`data/README.md`](data/README.md).
+This public repository distributes code and aggregate/design inputs only. Participant-level behavioral, demographic, ranking, and Raven-response data are not public. Authorized users must place `analysis_input.csv` in `data/`; see [`data/README.md`](data/README.md).
 
 ## Run
 
-Requirements: **Stata 18 or later**. No community-contributed Stata packages are required.
+Requirements: Stata 18 or later. No community-contributed Stata packages are required.
 
 ```stata
 cd "PATH/TO/Replication_Parents"
@@ -36,8 +36,7 @@ Outputs are written to:
 |---|---|---|
 | Deidentified participant records | 7, 9–13, 17, 24–25, 27 | Measures and estimates are reconstructed in Stata. Table 8 also uses two external benchmark series. The RM cells in Tables 12–13 use the archived published tie-breaking summary. |
 | Fixed experimental design / manuscript constants | 1–6, 18–23 | Stata generates the tables from included design inputs and algorithm illustrations. |
-| Published recombinant-estimator output | 14–16, 26 | Stata regenerates the tables from the included published estimates. The underlying recombinant draw file and `recombinant_estimator_v2.R` were not present in the supplied author folder. |
-
+| Published recombinant-estimator output | 14–16, 26 |
 This distinction is deliberate. The package never describes a copied manuscript cell as a newly re-simulated estimate. See [REPLICATION_NOTES.md](REPLICATION_NOTES.md) for the exact provenance and all source/manuscript discrepancies.
 
 ## Structure
